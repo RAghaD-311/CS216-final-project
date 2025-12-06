@@ -4,12 +4,17 @@
 This research examines how Airbnb expansion affects housing affordability across five major European cities (Barcelona, Venice, Berlin, Madrid, and Paris). We analyze the relationship between short-term rentals, housing prices, and tourism regulations from 2008 to 2025 using data from Inside Airbnb, Eurostat, and regional housing markets.
 
 **Team Contributions**
+
 *Team Members*
 
 Angie Feng - [Primary contributions]
+
 Arla Jan Patrick Ragun - [Primary contributions]
+
 Avari Wang - [Primary contributions]
+
 Hannah Lim - [Primary contributions]
+
 Roudy Mohamed - [Primary contributions]
 
 **Repository Contents**
