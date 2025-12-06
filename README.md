@@ -5,9 +5,9 @@ This research examines how Airbnb expansion affects housing affordability across
 
 **Team Contributions**
 
-*Team Members*
+*Team Members and Primary Modules*
 
-* Angie Feng - [Primary contributions]
+* Angie Feng - Introduction & Research Questions, Data Sources, Modules, Limitations & Future Work, Collaboration & Sharing Plans
 * Arla Jan Patrick Ragun - [Primary contributions]
 * Avari Wang - [Primary contributions]
 * Hannah Lim - [Primary contributions]
