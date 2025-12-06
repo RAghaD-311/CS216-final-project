@@ -11,7 +11,7 @@ This research examines how Airbnb expansion affects housing affordability across
 * Arla Jan Patrick Ragun - [Primary contributions]
 * Avari Wang - [Primary contributions]
 * Hannah Lim - [Primary contributions]
-* Roudy Mohamed - Data Sources, results (linear regression model for Rise in Airbnb rentals vs Housing prices)
+* Roudy Mohamed - Data Sources & results 
 
 **Repository Contents**
 
