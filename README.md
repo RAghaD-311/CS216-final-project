@@ -15,11 +15,11 @@ This research examines how Airbnb expansion affects housing affordability across
 
 **Repository Contents**
 
-data_files - Cleaned and wrangled datasets
-project_prototype_plots.ipynb - Jupyter notebook with visualizations
+* data_files - Cleaned and wrangled datasets
+* project_prototype_plots.ipynb - Jupyter notebook with visualizations
 
 **Data Sources**
 
-Airbnb listings: Inside Airbnb (2008-2025)
-Regional GDP: Eurostat (2012-2023)
-Housing prices: Regional real estate data (2011-2025)
+* Airbnb listings: Inside Airbnb (2008-2025)
+* Regional GDP: Eurostat (2012-2023)
+* Housing prices: Regional real estate data (2011-2025)
